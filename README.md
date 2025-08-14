@@ -534,25 +534,12 @@ Status: 🎯 Conversion Optimized
 </div>
 
 
-
-📈 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RenzMc/RenzMc/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
-
-
 🎵 Coding Soundtrack
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" alt="Music" width="200"/>
-</div>
-
-
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=renzmc&count=5&unique=true" alt="Spotify Recently Played" />
+  <a href="https://youtu.be/fudsUhWAG_o?si=8vIEkCYSSbag-OVX" target="_blank">
+    <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" alt="Music" width="200"/>
+  </a>
 </div>
 
 
