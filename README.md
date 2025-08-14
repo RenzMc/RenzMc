@@ -460,30 +460,6 @@ Status: 🎯 Conversion Optimized
 </tr>
 </table>
 
-
-
-📊 Skill Distribution Chart
-
-<div align="center">
-
-
-
-Technology	Proficiency	Experience	Projects
-**🐍 Python**	![95%](https://progress-bar.dev/95?color=3776ab)	8+ Years	50+
-**🟨 JavaScript**	![90%](https://progress-bar.dev/90?color=f7df1e)	7+ Years	40+
-**☕ Java**	![90%](https://progress-bar.dev/90?color=ed8b00)	6+ Years	35+
-**🟣 Kotlin**	![85%](https://progress-bar.dev/85?color=7f52ff)	5+ Years	25+
-**🔷 TypeScript**	![85%](https://progress-bar.dev/85?color=007acc)	4+ Years	30+
-**🐘 PHP**	![80%](https://progress-bar.dev/80?color=777bb4)	6+ Years	45+
-**⚛️ React**	![95%](https://progress-bar.dev/95?color=61dafb)	5+ Years	35+
-**🟢 Node.js**	![90%](https://progress-bar.dev/90?color=339933)	5+ Years	40+
-**🐳 Docker**	![70%](https://progress-bar.dev/70?color=2496ed)	3+ Years	20+
-**☁️ AWS**	![65%](https://progress-bar.dev/65?color=ff9900)	2+ Years	15+
-
-</div>
-
-
-
 🌟 Professional Services
 
 <div align="center">
@@ -498,88 +474,40 @@ Technology	Proficiency	Experience	Projects
 
 
 
-🎯 Service Categories
-
 <table align="center">
 <tr>
 <td align="center" width="20%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"/>
-    <br><br>
-    <strong>🌐 Full-Stack Development</strong>
-    <br><br>
-    <sub>End-to-end web solutions with modern tech stack</sub>
-    <br><br>
-    <code>React • Node.js • MongoDB</code>
-    <br><code>Next.js • TypeScript • Tailwind</code>
-  </div>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"/>
+  <br><strong>🌐 Full-Stack Development</strong>
+  <br><sub>End-to-end web solutions</sub>
+  <br><code>React • Node.js • MongoDB</code>
 </td>
 <td align="center" width="20%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"/>
-    <br><br>
-    <strong>📱 Mobile App Development</strong>
-    <br><br>
-    <sub>Native & Cross-platform mobile solutions</sub>
-    <br><br>
-    <code>Kotlin • Java • Android</code>
-    <br><code>Flutter • React Native</code>
-  </div>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"/>
+  <br><strong>📱 Mobile App Development</strong>
+  <br><sub>Native & Cross-platform</sub>
+  <br><code>Kotlin • Java • Flutter</code>
 </td>
 <td align="center" width="20%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
-    <br><br>
-    <strong>🎮 Game Plugin Development</strong>
-    <br><br>
-    <sub>Minecraft & PocketMine server plugins</sub>
-    <br><br>
-    <code>PHP • MySQL • Redis</code>
-    <br><code>PocketMine API • Bukkit</code>
-  </div>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
+  <br><strong>🎮 Game Plugin Development</strong>
+  <br><sub>Minecraft & PocketMine</sub>
+  <br><code>PHP • MySQL • Redis</code>
 </td>
 <td align="center" width="20%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="100"/>
-    <br><br>
-    <strong>🔗 Blockchain & Web3</strong>
-    <br><br>
-    <sub>Smart contracts & decentralized apps</sub>
-    <br><br>
-    <code>Solidity • Web3.js • Ethereum</code>
-    <br><code>DeFi • NFT • DApps</code>
-  </div>
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="100"/>
+  <br><strong>🔗 Blockchain & Web3</strong>
+  <br><sub>Smart contracts & DApps</sub>
+  <br><code>Solidity • Web3.js • Ethereum</code>
 </td>
 <td align="center" width="20%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/>
-    <br><br>
-    <strong>🤖 AI Integration</strong>
-    <br><br>
-    <sub>Machine Learning & AI-powered solutions</sub>
-    <br><br>
-    <code>Python • TensorFlow • OpenAI</code>
-    <br><code>ChatGPT API • Computer Vision</code>
-  </div>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/>
+  <br><strong>🤖 AI Integration</strong>
+  <br><sub>Machine Learning Solutions</sub>
+  <br><code>Python • TensorFlow • OpenAI</code>
 </td>
 </tr>
 </table>
-
-
-
-💼 Service Packages
-
-<div align="center">
-
-
-
-Package	Description	Duration	Price Range
-**🚀 Starter**	Simple web app or mobile prototype	1-2 weeks	$500 - $1,500
-**💼 Professional**	Full-featured application with backend	3-6 weeks	$1,500 - $5,000
-**🏢 Enterprise**	Complex system with integrations	2-4 months	$5,000 - $15,000
-**⚡ Rush**	Urgent project delivery (24-48h)	1-3 days	+50% premium
-
-</div>
 
 
 
