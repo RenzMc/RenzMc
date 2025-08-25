@@ -44,7 +44,7 @@ fn main() {
 
 🌪 Wind Charge Plugin → Advanced entity & particle system
 
-⚔️ Doombringer Axe → Custom weapon mechanics
+⚔️ RenChat power full chating app without internet!
 
 🏆 SkyWars Arena → Multi-arena management system
 
