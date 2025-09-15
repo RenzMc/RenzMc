@@ -48,6 +48,28 @@ fn main() {
 </div>
 ---
 
+🏆 **GitHub Achievements**
+
+</div>
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RenzMc&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+<div align="center">
+
+📈 **Contribution Graph**
+
+</div>
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RenzMc&theme=react-dark&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF&area=true&hide_border=true)
+
+</div>
+
 💬 Connect with Me
 
 
