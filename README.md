@@ -40,18 +40,6 @@ fn main() {
 </div>
 ---
 
-🎮 Featured Projects
-
-🌪 Wind Charge Plugin → Advanced entity & particle system
-
-⚔️ RenChat power full chating app without internet!
-
-🏆 SkyWars Arena → Multi-arena management system
-
-
-
----
-
 📊 GitHub Stats
 
 <div align="center">
