@@ -145,7 +145,7 @@ fn main() {
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenzMc&theme=tokyonight&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=0ea5e9&sideNums=e2e8f0&currStreakNum=38bdf8&dates=94a3b8&sideLabels=94a3b8&border=0284c7" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RenzMc&theme=tokyonight&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=0ea5e9&sideNums=e2e8f0&currStreakNum=38bdf8&dates=94a3b8&sideLabels=94a3b8&border=0284c7" />
 </div>
 
 
