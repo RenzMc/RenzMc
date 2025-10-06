@@ -263,8 +263,10 @@ fn main() {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RenzMc&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="RenzMc Profile Views" />
+</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9,0284c7,0369a1,1e40af&height=200&section=footer&animation=twinkling" />
+  <img src="https://media.tenor.com/8C7CVEXqEIMAAAAj/hu-tao-woo.gif">
 </div>
