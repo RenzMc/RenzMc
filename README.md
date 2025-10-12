@@ -155,31 +155,6 @@ fn main() {
 </div>
 
 
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=1900&pause=450&color=0ea5e9&center=true&vCenter=true&width=700&lines=⭐+Total+Stars+Earned;🌟+Community+Recognition;💎+Open+Source+Impact" />
-</div>
-
-
-
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMnczODZ5a2lpYnJ5MGd0ZmdwZWloMDU4dzlqd3hseTJwejZmc3duNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S3thLnRWEpRwq6iDIO/giphy.gif">
-</div>
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenzMc&show_icons=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&icon_color=38bdf8&text_color=e2e8f0&border_color=0284c7&border_radius=20&custom_title=Total%20Stars%20Earned&show=stars" />
-</div>
-
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3">
-</div>
-
-
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=1700&pause=380&color=0ea5e9&center=true&vCenter=true&width=700&lines=🏆+GitHub+Achievements;🎖️+Milestones+%26+Trophies;⚡+Success+Metrics" />
 </div>
