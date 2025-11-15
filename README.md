@@ -1,11 +1,11 @@
-⚡ RenzMc — Freelance Developer 👋🚀
+ RenzMc — Freelance Developer 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9,0284c7,0369a1,1e40af&height=300&section=header&text=RenzMc%20Developer&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=⚡%20Crafting%20Code%20Since%202020%20⚡&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9,0284c7,0369a1,1e40af&height=300&section=header&text=RenzMc%20Developer&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20Crafting%20Code%20Since%202020%20&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=1500&pause=300&color=0ea5e9&center=true&vCenter=true&width=800&lines=⚡+Freelance+Developer;☁️+PocketMine+Plugin+Creator;✨+Full-Stack+Developer;🚀+Always+Building+Cool+Stuff;🌟+Sky's+The+Limit;💎+Code+Architect;🎯+Problem+Solver;🔥+Innovation+Master" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=1500&pause=300&color=0ea5e9&center=true&vCenter=true&width=800&lines=+Freelance+Developer;+PocketMine+Plugin+Creator;+Full-Stack+Developer;+Always+Building+Cool+Stuff;+Sky's+The+Limit;+Code+Architect;+Problem+Solver;+Innovation+Master" />
 </div>
 
 <div align="center">
@@ -17,11 +17,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=2000&pause=500&color=0ea5e9&center=true&vCenter=true&width=400&lines=🌤️+About+Me;💫+Who+Am+I%3F;⚡+Meet+RenzMc" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=2000&pause=500&color=0ea5e9&center=true&vCenter=true&width=400&lines=+About+Me;+Who+Am+I%3F;+Meet+RenzMc" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=0284c7&center=true&vCenter=true&width=700&lines=struct+RenzMc+%7B;++++role%3A+%26'static+str%2C;++++experience%3A+u8%2C;++++focus%3A+Vec%3C%26'static+str%3E%2C;++++superpowers%3A+Vec%3C%26'static+str%3E%2C;%7D;fn+main()+%7B;++++let+dev+%3D+RenzMc+%7B;+++++++role%3A+%22⚡+Freelance+Developer%22%2C;+++++++experience%3A+3%2C;+++++++focus%3A+vec!%5B%22🎮+PocketMine%22%5D%2C;+++++++superpowers%3A+vec!%5B%22⚡+Fast%22%5D%2C;++++%7D%3B;++++println!(%22✨+%7B%3A%23%3F%7D+✨%22%2C+dev)%3B;%7D" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=0284c7&center=true&vCenter=true&width=700&lines=struct+RenzMc+%7B;++++role%3A+%26'static+str%2C;++++experience%3A+u8%2C;++++focus%3A+Vec%3C%26'static+str%3E%2C;++++superpowers%3A+Vec%3C%26'static+str%3E%2C;%7D;fn+main()+%7B;++++let+dev+%3D+RenzMc+%7B;+++++++role%3A+%22+Freelance+Developer%22%2C;+++++++experience%3A+3%2C;+++++++focus%3A+vec!%5B%22+PocketMine%22%5D%2C;+++++++superpowers%3A+vec!%5B%22+Fast%22%5D%2C;++++%7D%3B;++++println!(%22+%7B%3A%23%3F%7D+%22%2C+dev)%3B;%7D" />
 </div>
 
 <div align="center">
@@ -40,21 +40,21 @@ struct RenzMc {
 
 fn main() {
     let dev = RenzMc {
-        role: "⚡ Freelance Developer",
+        role: " Freelance Developer",
         experience: 3,
         focus: vec![
-            "🎮 PocketMine Plugins", 
-            "🌐 Web Development", 
-            "📱 Mobile Apps"
+            " PocketMine Plugins", 
+            " Web Development", 
+            " Mobile Apps"
         ],
         superpowers: vec![
-            "⚡ Fast Learner",
-            "🎯 Problem Solver",
-            "🚀 Creative Builder",
-            "💎 Clean Code Writer"
+            " Fast Learner",
+            " Problem Solver",
+            " Creative Builder",
+            " Clean Code Writer"
         ],
     };
-    println!("✨ {:#?} ✨", dev);
+    println!(" {:#?} ", dev);
 }
 ```
 
@@ -70,7 +70,7 @@ fn main() {
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=1800&pause=400&color=0ea5e9&center=true&vCenter=true&width=500&lines=🛠️+Tech+Stack;💻+My+Arsenal;⚡+Skills+%26+Tools" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=1800&pause=400&color=0ea5e9&center=true&vCenter=true&width=500&lines=+Tech+Stack;+My+Arsenal;+Skills+%26+Tools" />
 </div>
 
 
@@ -82,8 +82,8 @@ fn main() {
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=2200&pause=600&color=38bdf8&center=true&vCenter=true&width=600&lines=⚡+Languages+%26+Frameworks;💎+Building+Amazing+Things" />
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=2200&pause=600&color=38bdf8&center=true&vCenter=true&width=600&lines=+Languages+%26+Frameworks;+Building+Amazing+Things" />
+
 
 
   <img src="https://skillicons.dev/icons?i=php,java,kotlin,js,ts,python,react,nextjs&theme=dark" />
@@ -98,8 +98,8 @@ fn main() {
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=2200&pause=600&color=38bdf8&center=true&vCenter=true&width=600&lines=☁️+Databases+%26+Tools;🚀+Development+Ecosystem" />
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=2200&pause=600&color=38bdf8&center=true&vCenter=true&width=600&lines=+Databases+%26+Tools;+Development+Ecosystem" />
+
 
 
   <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,figma&theme=dark" />
@@ -108,19 +108,19 @@ fn main() {
 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3">
+  <img src="https://user-images.githubusercontent.com/74097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3">
 </div>
 
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=1600&pause=350&color=0ea5e9&center=true&vCenter=true&width=600&lines=📊+GitHub+Analytics;📈+Stats+%26+Metrics;💫+Data+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=1600&pause=350&color=0ea5e9&center=true&vCenter=true&width=600&lines=+GitHub+Analytics;+Stats+%26+Metrics;+Data+Insights" />
 </div>
 
 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74097560/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 
@@ -139,7 +139,7 @@ fn main() {
 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74097560/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
 </div>
 
 
@@ -156,7 +156,7 @@ fn main() {
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=1700&pause=380&color=0ea5e9&center=true&vCenter=true&width=700&lines=🏆+GitHub+Achievements;🎖️+Milestones+%26+Trophies;⚡+Success+Metrics" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=1700&pause=380&color=0ea5e9&center=true&vCenter=true&width=700&lines=+GitHub+Achievements;+Milestones+%26+Trophies;+Success+Metrics" />
 </div>
 
 
@@ -180,7 +180,7 @@ fn main() {
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=1800&pause=420&color=0ea5e9&center=true&vCenter=true&width=700&lines=📈+Contribution+Graph;📊+Activity+Timeline;🔥+Coding+Journey" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=1800&pause=420&color=0ea5e9&center=true&vCenter=true&width=700&lines=+Contribution+Graph;+Activity+Timeline;+Coding+Journey" />
 </div>
 
 
@@ -197,7 +197,7 @@ fn main() {
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=1600&pause=320&color=0ea5e9&center=true&vCenter=true&width=600&lines=💌+Connect+with+Me;🤝+Let's+Collaborate;🌐+Get+In+Touch" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=1600&pause=320&color=0ea5e9&center=true&vCenter=true&width=600&lines=+Connect+with+Me;+Let's+Collaborate;+Get+In+Touch" />
 </div>
 
 
@@ -210,13 +210,13 @@ fn main() {
 
 <div align="center">
   <a href="mailto:renzaja11@gmail.com">
-    <img src="https://img.shields.io/badge/⚡_Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0284c7" />
+    <img src="https://img.shields.io/badge/_Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0284c7" />
   </a>
   <a href="https://wa.me/6282318222611">
-    <img src="https://img.shields.io/badge/☁️_WhatsApp-0ea5e9?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0284c7" />
+    <img src="https://img.shields.io/badge/_WhatsApp-0ea5e9?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0284c7" />
   </a>
   <a href="https://renzportofolio-20rknpc0l-renzs-projects-b709d4b0.vercel.app">
-    <img src="https://img.shields.io/badge/✨_Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0284c7" />
+    <img src="https://img.shields.io/badge/_Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0284c7" />
   </a>
 </div>
 
@@ -229,13 +229,13 @@ fn main() {
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2000&pause=500&color=0ea5e9&center=true&vCenter=true&width=900&lines=☁️+Let's+Build+Something+Amazing!;⚡+Your+Vision%2C+My+Code;🚀+Creating+Digital+Magic;🌟+Sky's+The+Limit!;💎+Turning+Ideas+Into+Reality;🎯+Excellence+In+Every+Line;🔥+Innovation+Never+Stops;✨+Dream+It%2C+Code+It%2C+Ship+It!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2000&pause=500&color=0ea5e9&center=true&vCenter=true&width=900&lines=+Let's+Build+Something+Amazing!;+Your+Vision%2C+My+Code;+Creating+Digital+Magic;+Sky's+The+Limit!;+Turning+Ideas+Into+Reality;+Excellence+In+Every+Line;+Innovation+Never+Stops;+Dream+It%2C+Code+It%2C+Ship+It!" />
 </div>
 
 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74097560/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 <p align="center">
