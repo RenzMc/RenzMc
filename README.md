@@ -30,32 +30,28 @@
 
 <div align="center">
 
-```rust
-struct RenzMc {
-    role: &'static str,
-    experience: u8,
-    focus: Vec<&'static str>,
-    superpowers: Vec<&'static str>,
-}
+```python
+kelas RenzMc:
+    konstruktor(role, experience, focus, superpowers):
+        diri.role itu role
+        diri.experience itu experience
+        diri.focus itu focus
+        diri.superpowers itu superpowers
+    selesai
 
-fn main() {
-    let dev = RenzMc {
-        role: " Freelance Developer",
-        experience: 3,
-        focus: vec![
-            " PocketMine Plugins", 
-            " Web Development", 
-            " Mobile Apps"
-        ],
-        superpowers: vec![
-            " Fast Learner",
-            " Problem Solver",
-            " Creative Builder",
-            " Clean Code Writer"
-        ],
-    };
-    println!(" {:#?} ", dev);
-}
+    metode info():
+        hasil f"Role: {diri.role} | Exp: {diri.experience} | Focus: {diri.focus} | Superpowers: {diri.superpowers}"
+    selesai
+selesai
+
+dev itu RenzMc(
+    "Freelance Developer",
+    3,
+    ["PocketMine Plugins", "Web Development", "Mobile Apps"],
+    ["Fast Learner", "Problem Solver", "Creative Builder", "Clean Code Writer"]
+)
+
+tampilkan dev.info()
 ```
 
 
